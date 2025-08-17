@@ -55,10 +55,8 @@ To create an executive-ready dashboard that:
     📈 Content Explosion                        Post-2000	Supports Netflix’s global expansion and aggressive catalog acquisition.
     ⏱ Runtime Variation	                     Movies with longer runtimes aren’t necessarily higher rated, showing runtime isn’t a predictor of quality.
 
- 📊**Screenshot and Demo**
-
-![Dashboard Overview]()
-![Dashboard Overview]()
+ # 📊**Screenshot and Demo**
+![Dashboard Overview](https://github.com/jiradeepak9/Netflix_Insight/blob/main/Netflix_Insight.png)
 
 # **🔧 Features**
 - Interactive filters (Year, Movies vs Shows)
